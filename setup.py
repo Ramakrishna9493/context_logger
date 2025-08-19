@@ -7,8 +7,8 @@ setup(
     description='A contextual logging framework for Python',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author='Your Name',
-    author_email='your-email@example.com',
+    author='Ramakrishna Bapathu',
+    author_email='ramkrishna9493@gmail.com',
     url='https://github.com/Ramakrishna9493/context_logger',
     license='MIT',
     classifiers=[
@@ -18,5 +18,5 @@ setup(
         'Operating System :: OS Independent',
     ],
     python_requires='>=3.6',
-    install_requires=[logger],  # List any dependencies here, e.g. 'requests'
+    install_requires=[],
 )
