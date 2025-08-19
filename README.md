@@ -14,4 +14,4 @@ A Python package that provides a contextual logging framework, enabling you to l
 To install the package, use:
 
 ```bash
-pip install context_logger
+pip install context-log-python

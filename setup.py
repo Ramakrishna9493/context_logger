@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='context_logger',
+    name='context-log-python',
     version='0.1.0',
     packages=find_packages(),
     description='A contextual logging framework for Python',
